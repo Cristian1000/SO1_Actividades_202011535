@@ -1,0 +1,9 @@
+[Unit]
+Description=Actividad 4 Saludo y fecha 
+
+[Service]
+Type=simple
+ExecStart=/home/esteban/GitHub/SO1_Actividades_202011535/Actividad4/code/actividad4.sh
+
+[Install]
+WantedBy=multi-user.target  
