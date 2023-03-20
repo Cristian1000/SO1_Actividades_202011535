@@ -1,7 +1,7 @@
 # Actividad 3
 
 ## Descripcion del problema
-El problema que presentaba era un error 404 Not found el cual se preoduce al recargar la pagina, al entrar direcctamente al localhost:3000 este direcciona a http://localhost:3000/login y carga correctamente, sin embargo al reargar muestra el sisguiente error: 
+El problema que presentaba era un error 404 Not found el cual se preoduce al recargar la pagina, al entrar direcctamente al localhost:3000 este direcciona a http://localhost:3000/login y carga correctamente, sin embargo al recargar, o dirigirse directamente a la ruta especifica muestra el siguiente error: 
 
 ![](imas/error.png)
 
